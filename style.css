@@ -1,0 +1,39 @@
+body {
+    background-color: #1a1a1a;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    margin: 60px;
+}
+
+.bank-title {
+    font-size: 50px;
+    margin-bottom: 15px;
+}
+
+.bank-paragraph {
+    color: #BDBDBD;
+    font-size: 15px;
+    line-height: 1.4;
+}
+
+img {
+    display: block;
+    width: 700px;
+    height: auto;
+}
+
+.bank-button {
+    background-color: #2B892E;
+    color: #BDBDBD;
+    font-size: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 82px;
+    margin-top: 10px;
+    margin-bottom: 60px;
+}
+
+
+.bank-button:hover {
+    background-color: #A0D820;
+}
